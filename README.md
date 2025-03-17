@@ -1,5 +1,5 @@
 # spring-webflux
-CRUD con Spring Boot - Spring Webflux - Mysql con los métodos HTTP: GET, POST, PUT y DELETE
+CRUD con Spring Boot - Spring Webflux - Mysql with the methods HTTP: GET, POST, PUT y DELETE
 <hr/>
 
 # Script DB:
